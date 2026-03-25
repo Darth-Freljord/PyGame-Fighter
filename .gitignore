@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Conda / environment
+*.conda
+*.env
+environment.yml
+fighter-game/
+
+# Pygame / temporary files
+*.mp4.bak
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs and caches
+*.log

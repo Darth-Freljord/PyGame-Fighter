@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot>A couple of college students decide to sign up for pharmaceutical testing of a new allergy drug to make some extra cash for their spring break trip. They quickly discover their two week stay will not be as easy as they first believed and fight to save themselves from the grips of the facility.</plot>
+  <lockdata>false</lockdata>
+  <dateadded>2024-10-03 22:42:22</dateadded>
+  <title>Bloodwork</title>
+  <originaltitle>Bloodwork</originaltitle>
+  <director>Eric Wostenberg</director>
+  <writer>David Nahmod</writer>
+  <credits>David Nahmod</credits>
+  <rating>5.3</rating>
+  <year>2012</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1562567</imdbid>
+  <tmdbid>100024</tmdbid>
+  <premiered>2012-05-10</premiered>
+  <releasedate>2012-05-10</releasedate>
+  <runtime>0</runtime>
+  <tagline>Not Dying Doesn't Mean You're Alive</tagline>
+  <country>United States of America</country>
+  <country>Canada</country>
+  <genre>Horror</genre>
+  <genre>Thriller</genre>
+  <tag>dangerous side effects</tag>
+  <tag>clinical trials</tag>
+  <tag>allergy drug</tag>
+  <art>
+    <poster>C:\ProgramData\Jellyfin\Server\metadata\library\e5\e5f73e7df0c258373032c7fbe2ef49fb\poster.jpg</poster>
+    <fanart>C:\ProgramData\Jellyfin\Server\metadata\library\e5\e5f73e7df0c258373032c7fbe2ef49fb\backdrop.jpg</fanart>
+  </art>
+  <actor>
+    <name>Travis Van Winkle</name>
+    <role>Greg</role>
+    <type>Actor</type>
+    <sortorder>0</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\T\Travis Van Winkle\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tricia Helfer</name>
+    <role>Dr. Wilcox</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\T\Tricia Helfer\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>John Bregar</name>
+    <role>Rob Jeffries</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\J\John Bregar\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mircea Monroe</name>
+    <role>Stacey</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\M\Mircea Monroe\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rik Young</name>
+    <role>Nigel</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\R\Rik Young\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Amara Zaragoza</name>
+    <role>Linnea</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\A\Amara Zaragoza\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Joe Pingue</name>
+    <role>Aaron</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\J\Joe Pingue\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eric Roberts</name>
+    <role>Man in Suit</role>
+    <type>Actor</type>
+    <sortorder>7</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\E\Eric Roberts\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>James Purcell</name>
+    <role>Taylor</role>
+    <type>Actor</type>
+    <sortorder>8</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\J\James Purcell\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yanna McIntosh</name>
+    <role>Patricia</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\Y\Yanna McIntosh\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Vas Saranga</name>
+    <role>Binal</role>
+    <type>Actor</type>
+    <sortorder>10</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\V\Vas Saranga\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Albert Chung</name>
+    <role>Huy Lee</role>
+    <type>Actor</type>
+    <sortorder>11</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\A\Albert Chung\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Anna Ferguson</name>
+    <role>Maggie</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\A\Anna Ferguson\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Stephen Bogaert</name>
+    <role>Ira</role>
+    <type>Actor</type>
+    <sortorder>13</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\S\Stephen Bogaert\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sterling Jarvis</name>
+    <role>Curtis</role>
+    <type>Actor</type>
+    <sortorder>14</sortorder>
+  </actor>
+  <actor>
+    <name>Chris Chesser</name>
+    <role>Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Karen Glasser</name>
+    <role>Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Brandon Nutt</name>
+    <role>Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>David S. Ward</name>
+    <role>Producer</role>
+    <type>Producer</type>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\D\David S. Ward\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ken Locsmandi</name>
+    <role>Executive Producer</role>
+    <type>Producer</type>
+  </actor>
+  <id>tt1562567</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>582620</bitrate>
+        <width>768</width>
+        <height>368</height>
+        <aspect>48:23</aspect>
+        <aspectratio>48:23</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>0</duration>
+        <durationinseconds>0</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

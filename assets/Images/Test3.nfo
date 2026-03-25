@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot />
+  <lockdata>false</lockdata>
+  <dateadded>2024-10-03 22:42:22</dateadded>
+  <title>Test3</title>
+  <runtime>0</runtime>
+  <art>
+    <poster>C:\ProgramData\Jellyfin\Server\metadata\library\b5\b5ae7d3a1af4063c92e6bc9f538d40ed\poster.jpg</poster>
+  </art>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>635577</bitrate>
+        <width>800</width>
+        <height>336</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>0</duration>
+        <durationinseconds>1</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>
