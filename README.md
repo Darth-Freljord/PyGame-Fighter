@@ -3,9 +3,8 @@
 A fast-paced 2-player fighting game built with **Pygame** and **MoviePy**.  
 Battle as the mighty **King** against the powerful **Wizard** in an arena with a dynamic video background!
 
-![Game Screenshot](assets/Images/victory.png)  
-*(Replace this with an actual gameplay screenshot once you add one)*
-
+![Game Screenshot](Gamepic.png)  
+![Gameplay](Gamecapture.gif)
 ## 🎮 Features
 
 - **Two unique fighters**:
